@@ -1,4 +1,6 @@
 # Introduction-to-Android-Programming
+# Author: Aliya Hameer
+
 - Source code from the Introduction to Android Programming workshop
 - To run the example project:
   - 1) Download Android Studio from: http://developer.android.com/sdk/index.html
